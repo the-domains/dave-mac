@@ -1,0 +1,28 @@
+name: dave mac
+favicon: null
+layout_spectrum: 0.9649506567511708
+typography_spectrum: 0.6442736268509179
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#17BEBB'
+    - '#2E282A'
+    - '#CD5334'
+    - '#EDB88B'
+    - '#FAD8D6'
+  brandStrength: 0.04857695009559393
+  lightness: 0.6759706239681691
+  saturation: 0.9102115912828594
+  rhythmicContrast: 0.31009083706885576
+purpose: []
